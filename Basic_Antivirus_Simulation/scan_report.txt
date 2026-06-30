@@ -1,0 +1,8 @@
+BASIC ANTIVIRUS SCAN REPORT
+
+Total Files: 2
+Safe Files: 1
+Infected Files: 1
+
+Detected Threats:
+infected.txt

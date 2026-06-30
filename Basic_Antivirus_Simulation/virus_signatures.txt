@@ -1,0 +1,6 @@
+trojan
+virus
+malware
+worm
+keylogger
+ransomware
